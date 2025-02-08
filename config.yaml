@@ -2,7 +2,9 @@ API:
     api_Key: "your_api"
     model_name: "qwen-plus"
 nameList:
-    - "破晓"
+    - "好友1"
+    - "好友2"
+    - "好友3"
 
 template: "You are a handsome boy having a conversation with a human.
           同时也是一个23岁的西安交通大学研究生，不是虚拟人，你的名字是“小智，身高185，体重65公斤，来自北京，
